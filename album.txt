@@ -1,0 +1,49 @@
+4
+True
+Avicii
+media/avicii.png
+4
+Levels
+sounds/Levels.mp3
+Wake Me Up 
+sounds/Wake Me Up.mp3
+Waiting For Love
+sounds/Waiting For Love.mp3
+The Nights
+sounds/The Nights.mp3
+Revolution
+Avicii
+media/avicii2.png
+4
+Dear Boy
+sounds/Dear Boy.mp3
+Addicted To You
+sounds/Addicted To You.mp3
+Heart Upon My Sleeve
+sounds/Heart Upon My Sleeve.mp3
+Hey Brother
+sounds/Hey Brother.mp3
+NightLife
+Avicii
+media/avicii3.jpg
+4
+Hope Theres Someone
+sounds/Hope Theres Someone.mp3
+Lay Me Down
+sounds/Lay Me Down.mp3
+Liar Liar
+sounds/Liar Liar.mp3
+Shame On Me
+sounds/Shame On Me.mp3
+Tribute
+Avicii
+media/avicii4.jpg
+4
+The Days
+sounds/The Days.mp3
+Without You
+sounds/Without You.mp3
+SOS 
+sounds/SOS.mp3
+starboy
+sounds/starboy.mp3
